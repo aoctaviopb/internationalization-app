@@ -1,0 +1,16 @@
+{
+    "appBar": "Soy una barra de la app",
+    "@appBar": {
+        "description": "Esta es una barra de la app"
+    },
+
+    "body1": "Este es el cuerpo 1 de mi app",
+    "@appBar": {
+        "description": "Cuerpo 1"
+    },
+
+    "body2": "Este es el cuerpo 2 de mi app",
+    "@appBar": {
+        "description": "Cuerpo 2"
+    }
+}
